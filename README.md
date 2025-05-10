@@ -13,6 +13,6 @@ A Unity-based singleplayer tag game inspired by traditional Indonesian games.
 - Traditional theme
 
 ## Build
-You can download the latest `.exe` in the [Releases](https://github.com/yourusername/galasin-contest/releases) section.
+You can download the latest `.exe` in the [Builds](https://github.com/ketjandr/galasin-contest/tree/main/Builds) section.
 
 ---
